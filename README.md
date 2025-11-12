@@ -1,4 +1,6 @@
-# odin-recipes
+# odin-recipes live link
+
+https://neitodesu.github.io/odin-recipes/
 
 # Describe current Project
 
